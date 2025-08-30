@@ -1,7 +1,7 @@
-# Sistema de Permisos Estudiantiles
+Sistema de Permisos Estudiantiles
 
-Este repositorio contiene el desarrollo del **Sistema Digital de Permisos** para el internado de la **Universidad Adventista de Bolivia (UAB)**.  
-El sistema tiene como objetivo **automatizar la gestión de permisos de salida de los estudiantes**, mejorando la seguridad y reduciendo el tiempo de trámite.
+Este repositorio contiene el desarrollo del **Sistema Digital de Permisos** para el internado san Francisco de Asis 
+El sistema tiene como objetivo automatizar la gestión de permisos de salida de los estudiantes, mejorando la seguridad y reduciendo el tiempo de trámite.
 
 Funcionalidades principales
 -Geolocalización con GPS para el monitoreo de estudiantes fuera del internado.  
